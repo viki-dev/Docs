@@ -82,3 +82,15 @@ Row 2 | Row 2
 # Emoji
 
 :grin::v:
+
+# SHA REFERENCE
+
+61ca5d3ad6cc7ae9eaf57859e78dfe8c0f022ddb
+
+# MENTION 
+
+@(github_username)
+
+# ISSUE REFERENCE 
+
+#1
