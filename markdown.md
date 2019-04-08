@@ -41,7 +41,7 @@ LIST(ordered)
  IMAGES
 
 Logo
-![Image of Snapdragon](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiCk8n8w8DhAhUe8XMBHQopCIoQjRx6BAgBEAU&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F270266%2Fsnapdragon&psig=AOvVaw3H44HN9flaZhd3x5lbXVn0&ust=1554813976535855)
+![Image of Snapdragon](https://seeklogo.com/images/S/snapdragon-logo-374EF45C05-seeklogo.com.png)
 
  LINKS
 
@@ -61,6 +61,6 @@ System.out.print(" I am also code with fence");
 ```
 
 ```javascript
-System.out.print(" I am also code with fence and javascript keyword");
+alert(" I am also code with fence and javascript keyword");
 ```
 
