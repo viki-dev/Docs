@@ -46,7 +46,7 @@ __I am *also* bold Wth Italics__
   2. I am Second in Second
 
 # IMAGES
-> use ![label](image_link) to show an image
+> use ![label] (image_link) to show an image
 
 ![Image of Snapdragon](https://seeklogo.com/images/S/snapdragon-logo-374EF45C05-seeklogo.com.png)
 
